@@ -1,0 +1,48 @@
+.index-page {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  padding-top: 3rem;
+}
+
+.post-card {
+  display: block;
+  margin: 2rem auto;
+  width: 80%;
+}
+
+.is-liked {
+  color: darkred;
+}
+
+.not-liked {
+  color: grey;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.register-page{
+  text-align: center;
+  margin-top: 10rem;
+}
+
+mat-form-field{
+  width: 50%;
+}
+
+button {
+  width: 20%;
+  margin-right: 60px;
+  text-align: center;
+
+}
+#controls{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 40%;
+}
+
